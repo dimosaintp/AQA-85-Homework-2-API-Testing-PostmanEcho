@@ -1,0 +1,1 @@
+[![Java CI with Gradle](https://github.com/dimosaintp/AQA-85-Homework-2-API-Testing-PostmanEcho/actions/workflows/gradle.yml/badge.svg)](https://github.com/dimosaintp/AQA-85-Homework-2-API-Testing-PostmanEcho/actions/workflows/gradle.yml)
